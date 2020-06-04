@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         int a = 50;
         int b = 500;
         int y = 100;
+    String w = "vai trabalha";
     }
 }
